@@ -1,3 +1,4 @@
+-- The standard SQL statement is ""fetch first n rows only"".
 -- returns an aggregate on all possible combinations of columns
 select
 	cr.country_name, cr.region_name,cd.department_name, count(e.*)

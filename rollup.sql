@@ -1,3 +1,6 @@
+-- Rollup is used to calculate subtotals and totals by group
+-- returns an extra total country wise , otherwise we would have
+-- wrote another select statement to see total, with rollup  its easier
 select
 	cr.country_name, cr.region_name, count(e.*)
 from 
@@ -8,6 +11,6 @@ join
 on
 	e.region_id = cr.id
 group by 
-	rollup(cr.country_name, cr.region_name)
+	rollup(cr.country_name,cr.region_name)
 order by 
 	cr.country_name, cr.region_name
