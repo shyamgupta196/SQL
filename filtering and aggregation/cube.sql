@@ -47,3 +47,4 @@ order by
 
 -- general note
 -- to select "first n" -- The standard SQL statement is ""fetch first n rows only"".
+-- we can use "LIMIT n" this goes with ORDER BY clause.
