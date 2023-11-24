@@ -1,5 +1,5 @@
 # Intermediate SQL
-<br>
+<br></br>
 Hey, in this repo you can learn about SQL queries, i have explained in detail how it works. also this can be your complimentry material, if you are following any other material.
 
 ### Prerequisites - 
@@ -13,3 +13,8 @@ Hey, in this repo you can learn about SQL queries, i have explained in detail ho
 3. [`filtering and aggregation`](https://github.com/shyamgupta196/SQL/tree/main/filtering%20and%20aggregation)
 4. [`window funtion`](https://github.com/shyamgupta196/SQL/tree/main/window%20function)
 5. [`common table expressions`](https://github.com/shyamgupta196/SQL/tree/main/common%20table%20expressions)
+
+
+credits- these are my notes from a [linked-tutorial](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists), the codes are inspired by this lecture. the author has all rights to inform me if somethings are copied, and i will take it down. 
+
+Till then happy learnings.
