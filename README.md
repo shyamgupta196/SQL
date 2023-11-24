@@ -15,6 +15,7 @@ Hey, in this repo you can learn about SQL queries, i have explained in detail ho
 5. [`common table expressions`](https://github.com/shyamgupta196/SQL/tree/main/common%20table%20expressions)
 
 
-credits- these are my notes from a [linked-tutorial](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists), the codes are inspired by this lecture. 
+credits- these are my notes from a [linked-tutorial](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists), the codes are inspired by this lecture. do check it out. 
 
-Happy learnings 💛
+This is paid course, I am making my study material free for you to learn.😉
+##### Happy learnings 💛
